@@ -1,4 +1,8 @@
-### Hello World, I'm Jeremy 👋
+## Hello World, I'm Jeremy 👋
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JeremyTsaii)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremytsaii)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeremytsai331@gmail.com)
 
 #### - Junior at Harvey Mudd College (Grad. 2022)
 #### - Computer Science Student
@@ -18,17 +22,3 @@
 ### 🏆 Github Status
 
 ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=JeremyTsaii&count_private=true&show_icons=true&theme=tokyonight)
-
-
-### ☕ Get In Touch
-
-<a href="https://www.linkedin.com/in/jeremytsaii/">
-    <img alt="Jeremy | Linkedin" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-</a>
-
-<a href="mailto:jeremytsai331@gmail.com">
-    <img alt="Jeremy | Gmail" width="32px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-</a>
-
-
-
