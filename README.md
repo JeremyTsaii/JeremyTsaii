@@ -8,7 +8,7 @@
 
 ### - Junior at Harvey Mudd College (Grad. 2022)
 ### - Computer Science Student
-### - Software Engineering Intern @ JP Morgan Chase/InstaMed
+### - Software Engineering Intern @ JPMorgan Chase/InstaMed
 ### - Interests include Scalability, Maintainability, Customer-Facing Products and Open-Source Contribution
 
 ## 👨‍💻 Languages and Tools
