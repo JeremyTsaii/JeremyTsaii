@@ -1,5 +1,10 @@
 ### Hello World, I'm Jeremy 👋
 
+#### Junior at Harvey Mudd College (Grad. 2022)
+#### Computer Science Student
+#### Software Engineering Intern @ JP Morgan Chase/InstaMed
+
+
 ### 👨‍💻 Languages and Tools
 
 
@@ -9,9 +14,11 @@
 
 ![Banner](https://iili.io/dKj5lf.png)
 
+
 ### 🏆 Github Status
 
 ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=JeremyTsaii&count_private=true&show_icons=true&theme=tokyonight)
+
 
 ### ☕ Get In Touch
 
