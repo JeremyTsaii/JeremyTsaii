@@ -6,11 +6,12 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-#### - Junior at Harvey Mudd College (Grad. 2022)
-#### - Computer Science Student
-#### - Software Engineering Intern @ JP Morgan Chase/InstaMed
+### - Junior at Harvey Mudd College (Grad. 2022)
+### - Computer Science Student
+### - Software Engineering Intern @ JP Morgan Chase/InstaMed
+### - Interests include Scalability, Maintainability, Customer-Facing Products and Open-Source Contribution
 
-### 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Tools
 <p>
   <img width="55%" align="right" alt="Jeremy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeremyTsaii&count_private=true&show_icons=true&theme=tokyonight" />
 
@@ -39,7 +40,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
 </p>
 
-### 👀 Active Repo
+## 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeremyTsaii&repo=hyperplanner&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
