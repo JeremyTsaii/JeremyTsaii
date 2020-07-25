@@ -42,6 +42,6 @@
 
 ## 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeremyTsaii&repo=hyperplanner&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeremyTsaii&repo=hyperplanner&show_owner=true)](https://github.com/JeremyTsaii/hyperplanner)
 
 ![Banner](https://iili.io/dKj5lf.png)
