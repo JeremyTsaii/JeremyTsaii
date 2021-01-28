@@ -44,7 +44,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeremyTsaii&repo=hyperplanner&show_owner=true)](https://github.com/JeremyTsaii/hyperplanner)
 
-![Banner](https://iili.io/dKj5lf.png)
+![Banner](https://user-images.githubusercontent.com/44514622/105098661-43c04880-5a5f-11eb-833f-c545aa39a037.PNG)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeremyTsaii&repo=leetcode-stats&show_owner=true)](https://github.com/JeremyTsaii/leetcode-stats)
 
