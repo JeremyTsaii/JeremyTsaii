@@ -6,9 +6,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### - Junior at Harvey Mudd College (Grad. 2022)
+### - Senior at Harvey Mudd College (Grad. 2022)
 ### - Computer Science Student
-### - Software Engineering Intern @ JPMorgan Chase/InstaMed
+### - Software Engineering Intern @ Facebook
 ### - Interests include Scalability, Maintainability, Customer-Facing Products and Open-Source Contribution
 
 ## 👨‍💻 Languages and Tools
